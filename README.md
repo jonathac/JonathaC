@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Jonatha Cassio 👋
 
-- 💻 Desenvolvedor
+- Graduado em Ciência da Computação pela Uninassau;
+- Estou trabalhando atualmente com Desenvolvimento Java;
+- Aprendendo atualmente: Spring Boot, Restful API, Spring Security com Java e Microservices;
 
 <div align="center">
   <a href="https://github.com/jonathac">
