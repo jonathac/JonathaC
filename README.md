@@ -1,8 +1,12 @@
 ### Olá! Eu sou o Jonatha Cassio 👋
 
 - Graduado em Ciência da Computação pela Uninassau;
-- Estou trabalhando atualmente com Desenvolvimento Java;
-- Aprendendo atualmente: Spring Boot, Restful API, Spring Security com Java e Microservices;
+- Linguagens de Programação: Java
+- Softwares e Ferramentas de Desenvolvimento: Eclipse IDE, NetBeans IDE, IntelliJ IDEA.
+- Desenvolvimento de Aplicações utilizando tecnologias Java seguindo o modelo MVC, RestApi, Soap, realização de processo CRUD em banco de dados, Spring Security, Microservices, SpringBoot, Hibernate, JPA, Conhecimento em sql;
+- Testes unitários TDD, JUnit, Mockito;
+- Ferramentas de versionamento: Git, Bitbucket; 
+- Outras ferramentas: Jira, Confluence, Bamboo, Sonar;
 
 <div align="center">
   <a href="https://github.com/jonathac">
